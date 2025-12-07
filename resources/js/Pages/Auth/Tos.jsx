@@ -1,3 +1,5 @@
+
+
 export default function Tos({accepted
     ,setAccepted
     ,handleDecline
